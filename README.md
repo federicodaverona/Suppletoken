@@ -1,4 +1,4 @@
-# Suppletoken™ (€SUP)
+# <img src="https://supplet.eu" width="40" height="40" align="center" style="vertical-align:middle;"> Suppletoken™ (€SUP)
 
 This repository serves as the official technical documentation and deployment registry for **Suppletoken™ (€SUP)**, an SPL utility token built on the Solana blockchain.
 
